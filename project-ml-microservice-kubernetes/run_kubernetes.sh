@@ -4,7 +4,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=northjosh/prediction/prediction:latest
+dockerpath=northjosh/prediction:latest
 
 # Step 2
 # Run the Docker Hub container with kubernetes
